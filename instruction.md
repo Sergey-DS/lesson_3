@@ -19,4 +19,4 @@ git config --global user.email ваша почта@example.com***
 ![красота то какая!](osn_commands_git.png "Основные комманды Git")  
   
   The end.
-  Или нет?
+  Или да?
