@@ -20,3 +20,5 @@ git config --global user.email ваша почта@example.com***
   
   The end.
   Или да?
+  # Ветка 4  
+  Не должна вызвать конфликт, не то, что ветка 3.
